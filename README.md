@@ -1,6 +1,6 @@
 # Responsive Bottom Navigation Bar
 ### Responsive Bottom Navigation Bar
-
+watch this nav bar demo live in : [Here](https://mahan-navigation.netlify.app)
 - Lower navigation bar using HTML, CSS and JavaScript.
 - First design with labels in the navigation bar.
 - Second design with points in the navigation bar.
